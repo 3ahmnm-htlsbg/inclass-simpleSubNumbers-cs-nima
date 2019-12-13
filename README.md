@@ -1,28 +1,23 @@
-# Unity2019114f1-2D-Template
+#inclass-simpleSubNumbers-cs-nima
 
 ### Project description: 
 Introduction/Project summary 
+Create GitHub repository and clone it locally
+Copy in Unity 2019
+Build a GUI
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity 2019.1.14.f1
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
-
-### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+WebGL 
+Resolution 1920 x 780
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
-
-### Project state: 
-incl. progress in percent
-
-### Limitations: 
+Template from 3ahmnm-htlsbg/Unity2019114f1-2D-Template 
 
 ### Lessons Learned: 
+Creating GUI with Input Fields and Buttons
+Create own Ref Resolution in Unity
 
-Copyright by you :)
+Copyright by nima
